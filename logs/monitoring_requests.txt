@@ -1,0 +1,1 @@
+[2025-10-19 09:31:06] Monitoring Request | Customer: Omar Khalil | Site: MTC North | Parameters: voltage and temperature

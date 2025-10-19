@@ -1,0 +1,13 @@
+# Core AI and API
+openai>=1.12.0
+
+# Interface
+gradio>=4.40.0
+
+# Environment variable management
+python-dotenv>=1.0.1
+
+# Data handling and file utilities
+pandas>=2.2.2
+
+# Optional utilities (datetime, csv, os are built-in)

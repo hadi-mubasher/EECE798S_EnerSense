@@ -1,0 +1,5 @@
+EnerSense Analytics is an energy consultancy that helps organizations reduce energy waste and improve sustainability through real-time monitoring, intelligent analytics, and predictive automation. Our mission is to turn complex energy data into actionable insights that drive measurable efficiency gains and lower carbon impact.
+
+The company specializes in energy auditing, IoT sensor integration, rule-based alerts, and AI-powered forecasting. EnerSense connects to industrial systems via protocols like Modbus, MQTT, and Sparkplug-B to monitor parameters such as temperature, current, and voltage. Its automated reporting and dashboard solutions empower businesses to visualize performance, detect anomalies, and optimize operations in real time.
+
+Founded by Dr. Mira Al-Sayed, Carlos Dominguez, and Hadi Melhem, the team combines expertise in energy systems, IoT architecture, and artificial intelligence. Headquartered in Beirut, Lebanon, EnerSense serves clients across the Middle East and Europe with a focus on measurable outcomes — reducing costs by up to 25%, improving reliability, and supporting organizations on their journey toward a sustainable energy future.
